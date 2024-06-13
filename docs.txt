@@ -1,0 +1,7 @@
+1. npm i -g typescript@4.8.3 ts-node@10.9.1 @types/node@18.7.18 (CMD)
+2. First, Open PowerShell with Run as Administrator.
+   Then, run this command in PowerShell: Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
+   After that type Y and press Enter.
+3. RUN1: RUN tsc file.ts => Tạo file file.js => RUN node file.js
+   RUN2: RUN ts-node file.ts
+   -- Đường dẫn đến file.ts/js
